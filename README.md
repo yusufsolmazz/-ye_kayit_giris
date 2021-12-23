@@ -1,1 +1,1 @@
-# -ye_kayit_giris
+# uye_kayit_giris
